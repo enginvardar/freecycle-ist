@@ -1,0 +1,26 @@
+{
+    "name": "freecycle",
+    "description": "freecycle",
+    "homepage": "http://www.freecycle.com",
+    "license": "GPL-2.0+",
+    "version": "0.1",
+    "keywords": ["freecycle"],
+    "homepage": "https://github.com/memnuniyetsizim/freecycle",
+    "authors": [
+        {
+            "name": "Mehmet Ali Ergut",
+            "homepage": "https://github.com/memnuniyetsizim",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+	"slim/slim": "2.4.*",
+        "slim/extras": "2.*",
+        "slim/views": "dev-master",
+        "twig/twig": "1.15.*",
+	"guzzle/guzzle": "v3.9.*",
+	"predis/predis": "dev-master",
+	"imagine/imagine": "~0.5.0"
+   },
+   "minimum-stability": "dev"
+}

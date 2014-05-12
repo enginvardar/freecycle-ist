@@ -1,0 +1,9 @@
+This is the project of Freecycle Istanbul yahoo group.
+
+https://groups.yahoo.com/neo/groups/freecycleistanbul/info
+
+Feel free to contact and participate.
+All participants will be listed here.
+
+Project uses Slim Framework with MySQL as db and Redis for cache and queue.
+

@@ -1,0 +1,5 @@
+{% include "home.header.html" %}
+    {% for page in pages %}
+    <li>{{ page.title|e }}</li>
+    {% endfor %}
+{% include "home.footer.html" %}
